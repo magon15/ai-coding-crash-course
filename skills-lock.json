@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "skills": {
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grill-me/SKILL.md",
+      "computedHash": "056d334e5d235e66ecd359f096d1b3d63f31500ec0d97504775351014869d465"
+    },
+    "grilling": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/grilling/SKILL.md",
+      "computedHash": ""
+    },
+    "handoff": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/handoff/SKILL.md",
+      "computedHash": "7caab20cd3b98bd88902e345a4b9063fd2e78e557a062f5b5e706008766042bd"
+    },
+    "writing-for-agents": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
+      "computedHash": "e79a2476b2417b228922453478d9505a6b9af19f3a412e560728ce62ed3555ca"
+    }
+  }
+}
